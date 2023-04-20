@@ -27,6 +27,8 @@ THEN I am again presented with current and future conditions for that city
 ## The URL of the GitHub repository:-
 
 ## Screenshot of Deployed application-
+[Weather Forecast.webm](https://user-images.githubusercontent.com/128442182/233399526-9f233c43-a90b-40be-b0c8-a1fd7db8a456.webm)
+
 
 ## Support
 If you encounter any issues or have questions, please open an issue in the GitHub repository or contact me at amrit.gill3005@gmail.com
