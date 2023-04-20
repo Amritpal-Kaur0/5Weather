@@ -25,6 +25,7 @@ THEN I am again presented with current and future conditions for that city
 ## The URL of the functional, deployed application:- 
 
 ## The URL of the GitHub repository:-
+https://github.com/Amritpal-Kaur0/5Weather
 
 ## Screenshot of Deployed application-
 [Weather Forecast.webm](https://user-images.githubusercontent.com/128442182/233399526-9f233c43-a90b-40be-b0c8-a1fd7db8a456.webm)
