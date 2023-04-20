@@ -23,6 +23,7 @@ THEN I am again presented with current and future conditions for that city
 
 
 ## The URL of the functional, deployed application:- 
+https://amritpal-kaur0.github.io/5Weather/
 
 ## The URL of the GitHub repository:-
 https://github.com/Amritpal-Kaur0/5Weather
