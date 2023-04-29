@@ -77,16 +77,18 @@ body{
       
       #search-history ul {
         padding: 0;
+        cursor: pointer;
       }
       
       #search-history li {
         border:2px dotted white;
         display: inline-block;
         margin-right: 10px;
-        cursor: pointer;
+        cursor: pointer!important;
         text-decoration: underline;
       }
       
       #search-history li:hover {
         color: blue;
+        cursor: pointer;
       }
